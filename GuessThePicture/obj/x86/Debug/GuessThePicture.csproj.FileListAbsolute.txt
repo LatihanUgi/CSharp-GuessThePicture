@@ -1,0 +1,38 @@
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\bin\Debug\GuessThePicture.exe
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\bin\Debug\GuessThePicture.pdb
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.utama.resources
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.exe
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.pdb
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.KelasMain.resources
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Main.resources
+c:\users\user\documents\visual studio 2010\Projects\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Menu.resources
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.exe
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.pdb
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\bin\Debug\GuessThePicture.exe
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\bin\Debug\GuessThePicture.pdb
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.utama.resources
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.KelasMain.resources
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Main.resources
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Menu.resources
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Properties.Resources.resources
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BERKAS PROJECT\PROJECT 2SC2\PROJECT Q3-2\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Menuhelp.resources
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.exe
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.pdb
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\bin\Debug\GuessThePicture.exe
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\bin\Debug\GuessThePicture.pdb
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.utama.resources
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.KelasMain.resources
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Main.resources
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Menu.resources
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Menuhelp.resources
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\GuessThePicture.Properties.Resources.resources
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Latihan C#\project\GUI\GuessThePicture\GuessThePicture\obj\x86\Debug\GenerateResource.write.1.tlog

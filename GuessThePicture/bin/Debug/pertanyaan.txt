@@ -1,0 +1,15 @@
+pertanyaan1.png#minta uang
+pertanyaan2.png#cinta mati
+pertanyaan3.png#kaos kaki
+pertanyaan4.png#gigi berlubang
+pertanyaan5.png#kambing hitam
+pertanyaan6.png#mata keranjang
+pertanyaan7.png#kacamata kuda
+pertanyaan8.png#kemeja batik
+pertanyaan9.png#mouse wireless
+pertanyaan10.png#jambu monyet
+pertanyaan11.png#truk gandeng
+pertanyaan12.png#laptop baru
+pertanyaan13.png#kursi panas
+pertanyaan14.png#beban dosaku
+pertanyaan15.png#ingat mantan
